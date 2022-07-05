@@ -137,7 +137,7 @@ class _HomePageState extends State<HomePage> {
                 child: const Icon(Icons.notifications, size: 20),
               ),
               const SizedBox(
-                width: 10,
+                width: 11,
               ),
               Container(
                 height: 40,
